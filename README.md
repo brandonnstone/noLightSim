@@ -13,9 +13,9 @@ Rules are inherently lax but of course some content will not be posted. This is 
 If anyone would like to volunteer to admin for this shoot an email to the submit link above or contact me directly.
 
 ## FAQ
-*Why would I post to this website instead of my Facebook, twitter, any other site ever?*\
+#### *Why would I post to this website instead of my Facebook, twitter, any other site ever?*\
 Other sites censor heavily. This is as lax as can be without being illegal. You can post anonymously or attach a name if you would like recognition.\
-*Why is the site so basic?*\
+#### *Why is the site so basic?*\
 It works.
-*Can we post ANYTHING?*\
+#### *Can we post ANYTHING?*\
 No. But you can post things that you might not want to post to your public profiles but still have your content accessible for an extended period of time unlike other anonymous post boards.
