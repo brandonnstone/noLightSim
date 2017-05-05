@@ -6,6 +6,9 @@ Live at http://nluniversesim.com/home.html until it isn't.
 The original use of this website has lived its course. Now the website is yours. Any and all data submitted to the site's email address will be placed in a queue to be posted on the website. Due to the site still being in my name all content will have to be reviewed (see Rules) prior to posting.\
 Submit files (audio, video, whatever) to submit@nluniversesim.com. Text does not have to be saved in any format and can be directly sent to the email address.
 
+## Posts
+By default, each submission will be posted to its own seperate page with a white background and black text. If you would like anything specifically changed for your submission page please include the information in your submission email. Things like text color, size, font, background color, background picture, number of your submissions per page, etc. can be customized. If you submit multiple times with some identifier and say so in your submission email all of your posts can be on a single page.
+
 ## Rules for posting
 Rules are inherently lax but of course some content will not be posted. This is just to ensure the site dies of old age (ex: expiring domain) and isn't killed prematurely (ex: getting taken down for hate speech). Please use common sense as to what you should and should not submit. If you feel any content is innappropriate please provide a description and/or screenshot of the offending post to report@nluniversesim.com and it will be reviewed ASAP.
 
